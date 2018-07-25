@@ -1,1 +1,17 @@
-// Code your solution in this file!
+describe('index.js'), function()
+
+function distanceFromHQInBlocks() {
+  
+}
+
+function distanceFromHqInFeet() {
+  
+}
+
+function distanceTravelledInFeet() {
+  
+}
+
+function calculatesFarePrice() {
+  
+}
